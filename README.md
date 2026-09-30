@@ -1,4 +1,4 @@
-Telco Customer Churn Prediction & Retention Analysis
+## Telco Customer Churn Prediction & Retention Analysis ##
 ## Project Overview ##
 Customer churn (customer attrition) is one of the most critical business challenges faced by telecommunication companies. The primary objective of this project is to build a robust predictive model that identifies customers who are likely to cancel their services. By leveraging this model, companies can proactively implement targeted retention strategies (such as special discounts or promotional offers) to reduce customer churn and improve lifetime value.
 
